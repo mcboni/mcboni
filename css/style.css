@@ -30,7 +30,12 @@ body{
     background-image: url('img2.png')!important;
     background-size:cover;
     height: 35em;
+
+    
   
+}
+.carousel{
+    width: 100em;
 }
 .ball {
   position: absolute;
@@ -45,19 +50,34 @@ body{
 
 }
 #health{
+    position: absolute;
     font-family: 'Roboto', sans-serif;
     font-size: 3.5em;
     color: white;
-    
+     margin-top: 3em;
+      margin-left: 5em;
+   
+     
+   
 }
 #stock{
+    position: absolute;
     font-family: 'Roboto', sans-serif;
     font-size: 4.5em;
     color: white;
-    line-height: .4em;
+
+     margin-top: 3em;
+      margin-left: 3.9em;
+   
+   
 }
 #produce{
+    position: absolute;
     font-family: 'Roboto', sans-serif;
     font-size: 4.5em;
     color: white;
+     margin-top: 3.9em;
+      margin-left: 3.9em;
+   
+      
 }
