@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#particles-js{
+    height: 100%;
+    background-color: black;
+}
+
+.nav-link{
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+}
+#test1{
+    background-color: black;
+    height: 2.2em;
+}
+
+.test2{
+    color: white;
+    margin-right: 5em;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+    margin-top: 1em;
+}
+.top-section{
+    background-image: url('img2.png')!important;
+    background-size:cover;
+    height: 35em;
+  
+}
+.ball {
+  position: absolute;
+  border-radius: 100%;
+  opacity: 0.7;
+  
+}
+.sub-section1{
+    margin-top: 10em;
+    margin-left: 15em;
+    
+
+}
+#health{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5em;
+    color: white;
+    
+}
+#stock{
+    font-family: 'Roboto', sans-serif;
+    font-size: 4.5em;
+    color: white;
+    line-height: .4em;
+}
+#produce{
+    font-family: 'Roboto', sans-serif;
+    font-size: 4.5em;
+    color: white;
+}
