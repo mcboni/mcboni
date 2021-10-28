@@ -1,0 +1,42 @@
+
+#stock2{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin-top: 5em;
+}
+#stock3{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    
+}
+.top-section5{
+    background-image: url('img1a.png')!important;
+    background-size:cover;
+    height: 35em;
+}
+.nav-link{
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+}
+#test1{
+    background-color: black;
+    height: 2.2em;
+}
+
+.test2{
+    color: white;
+    margin-right: 5em;
+    font-family: 'Lato', sans-serif;
+    font-size: .7em;
+    margin-top: 1em;
+}
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
